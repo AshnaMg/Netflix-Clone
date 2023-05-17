@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+The Netflix clone includes the following features:
+
+*Landing page with a similar layout to Netflix, displaying movie and TV show thumbnails.
+*Responsive design that adapts to different screen sizes.
+*Hover effects on thumbnails to highlight selected items.
+*Carousel/slider functionality to navigate through different categories of content.
