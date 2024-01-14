@@ -25,7 +25,7 @@ function Banner() {
                     <button className='button' >Play</button>
                     <button className='button'>More Info</button>
                 </div>
-                <h1 className='description'>{movie ? movie.overview : ''}</h1>
+                <h1 className='description'>{movie ? movie.overview.slice(0,150) : ''}...</h1>
                 
             </div>
             <div className='fade-bottom'></div>
